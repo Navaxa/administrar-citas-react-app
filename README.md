@@ -1,6 +1,6 @@
 # Agendar citas
 
-Sample react application.
+Sample React application.
 
 Language | Library | Author |
 | --------| -------- | -------- |
