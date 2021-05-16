@@ -5,7 +5,7 @@ import Formulario from "./components/Formulario";
 function App() {
 
   // Citas en local storage
-  let citasIniciales = JSON.parse(localStorage.getItem('citas'));
+  let citasIniciales = JSON.parse(window.localStorage.getItem('citas'));
   if (!citasIniciales) {
     citasIniciales = [];
   }
@@ -14,10 +14,10 @@ function App() {
 
   // Realizar operaciones cuando el state cabia
   useEffect( () => {
-    let citasIniciales = JSON.parse(localStorage.getItem('citas'));
+    let citasIniciales = JSON.parse(window.localStorage.getItem('citas'));
     if (citasIniciales) {
-      localStorage.setItem('citas', JSON.stringify(citas));
-    } 
+      window.localStorage.setItem('citas', JSON.stringify(citas));
+    }
   }, [citas]);
 
   const crearCita = cita => {
