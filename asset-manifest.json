@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/administrar-citas-react-app/static/css/main.57cac5d2.chunk.css",
+    "main.js": "/administrar-citas-react-app/static/js/main.fb553ec9.chunk.js",
+    "main.js.map": "/administrar-citas-react-app/static/js/main.fb553ec9.chunk.js.map",
+    "runtime-main.js": "/administrar-citas-react-app/static/js/runtime-main.14921b29.js",
+    "runtime-main.js.map": "/administrar-citas-react-app/static/js/runtime-main.14921b29.js.map",
+    "static/js/2.a553b76f.chunk.js": "/administrar-citas-react-app/static/js/2.a553b76f.chunk.js",
+    "static/js/2.a553b76f.chunk.js.map": "/administrar-citas-react-app/static/js/2.a553b76f.chunk.js.map",
+    "static/js/3.0ac28e27.chunk.js": "/administrar-citas-react-app/static/js/3.0ac28e27.chunk.js",
+    "static/js/3.0ac28e27.chunk.js.map": "/administrar-citas-react-app/static/js/3.0ac28e27.chunk.js.map",
+    "index.html": "/administrar-citas-react-app/index.html",
+    "static/css/main.57cac5d2.chunk.css.map": "/administrar-citas-react-app/static/css/main.57cac5d2.chunk.css.map",
+    "static/js/2.a553b76f.chunk.js.LICENSE.txt": "/administrar-citas-react-app/static/js/2.a553b76f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14921b29.js",
+    "static/js/2.a553b76f.chunk.js",
+    "static/css/main.57cac5d2.chunk.css",
+    "static/js/main.fb553ec9.chunk.js"
+  ]
+}
